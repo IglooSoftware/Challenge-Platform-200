@@ -45,6 +45,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RssReader.cs" />
+    <Compile Include="RssStory.cs" />
     <Compile Include="Searcher.cs" />
     <Compile Include="ThreadSafeQueue.cs" />
   </ItemGroup>
