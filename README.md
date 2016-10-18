@@ -1,4 +1,4 @@
-# Code Challenge C
+# Challenge-Platform-200
 
 Suppose you find this code, created by an overeager sales person who has tried their hand at creating a ‘feature’ they want implemented. There are two tasks you have:
  
